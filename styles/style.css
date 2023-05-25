@@ -30,7 +30,7 @@ body {
 main{
     background-color: black;
     width: 80vw;
-    height: 90vh;
+    height: 100vh;
     margin-left: 35%;
     margin-top: 10%;
     color: white;
@@ -76,4 +76,5 @@ img{
 a{
     text-decoration: none;
     margin-bottom: 20px;
+    color:#41C3F6;
 }
